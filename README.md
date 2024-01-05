@@ -1,0 +1,2 @@
+# Compjs-file
+compete java
